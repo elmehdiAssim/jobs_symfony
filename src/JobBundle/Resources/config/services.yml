@@ -1,0 +1,4 @@
+services:
+#    job.example:
+#        class: JobBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

@@ -1,0 +1,7 @@
+posts:
+    type:     rest
+    resource: JobBundle\Controller\PostController
+
+users:
+    type:     rest
+    resource: JobBundle\Controller\UserController
